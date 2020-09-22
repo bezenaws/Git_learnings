@@ -1,1 +1,1 @@
-this is a modification made from master branch.
+This will correct the conflict.
